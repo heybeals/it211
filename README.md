@@ -1,1 +1,1 @@
-# it211
+# IT211 - Programming with Java
