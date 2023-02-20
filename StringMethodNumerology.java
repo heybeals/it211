@@ -5,7 +5,7 @@ public class StringMethodNumerology {
         Scanner input = new Scanner(System.in);
 
         do {
-            System.out.println("Enter the birth date (mm/dd/yyyy): ");
+            System.out.println("Enter birth date (mm/dd/yyyy): ");
             String bday = input.nextLine();
             Integer month = null;
             Integer day = null;
