@@ -146,7 +146,7 @@ class characterBuild {
         System.out.print("Please select your character's intial job class (1-7): ");
         int charJobClass = input.nextInt();
         character.addJobClass(charJobClass);
-        for (int i = 0;; i++) {
+        for (int i = 0; i<21; i++) {
             System.out.println("-------- ATTRIBUTES --------" + "\n");
             System.out.println("You have 21 Attribute points to define your character (Strength, Magical Aptitude, Perception, Charisma, Intelligence, Agility, and Luck)");
             System.out.print("Please assign Strength points: ");
