@@ -187,7 +187,7 @@ class characterBuild {
                 if (resetAttributes == 1) {
                     continue;
                 } else {
-                    character.setcharacter(3, 3, 3, 3, 3,3, 3);
+                    character.setcharacter(3, 3, 3, 3, 3, 3, 3);
                     break;
                 }
             }
